@@ -1,0 +1,2 @@
+rootProject.name='Guanxingwang20200323'
+include ':app', ':pulltorefresh_library', ':xlistview'
